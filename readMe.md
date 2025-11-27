@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shidqi</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">Student Of Politeknik Negeri Jakarta</h3>
 
 - 🔭 I’m currently working on **ruanginPNJ**
 
