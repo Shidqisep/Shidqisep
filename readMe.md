@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shidqi</h1>
 <h3 align="center">Student Of Politeknik Negeri Jakarta</h3>
 
-- 🔭 I’m currently working on **ruanginPNJ**
+- 🔭 I’m currently working on Nothing
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on **ruanginPNJ**
 
-- 🤝 I’m looking for help with **ruanginPNJ**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **PNJ**
 
 - 📫 How to reach me **shidathalah@gmail.com**
 
